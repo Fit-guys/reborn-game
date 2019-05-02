@@ -179,7 +179,12 @@
         "zoomFactor": 0.88
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "Result",
+          "value": ""
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -304,13 +309,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 178,
+          "height": 85,
           "layer": "",
           "locked": false,
           "name": "Beer",
-          "width": 231,
-          "x": 468,
-          "y": 204,
+          "width": 104,
+          "x": 517,
+          "y": 173,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -465,6 +470,24 @@
               ]
             }
           ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "NewObject",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -472,32 +495,8 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "KeyPressed"
-              },
-              "parameters": [
-                "Beer",
-                "Up"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "Delete"
-              },
-              "parameters": [
-                "Avocado",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
+          "actions": [],
           "events": []
         }
       ],
@@ -568,8 +567,8 @@
           "locked": false,
           "name": "Person",
           "width": 0,
-          "x": 352,
-          "y": 179,
+          "x": 359,
+          "y": 211,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -667,6 +666,58 @@
           "type": "PlatformBehavior::PlatformerObjectBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Second_32game",
+      "name": "Second game",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 1
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [],
+      "objects": [],
+      "events": [],
+      "layers": [
+        {
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [],
