@@ -574,6 +574,258 @@
         "name": "../../Downloads/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100-2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/run/run-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/run/run-8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/bridgeLogs.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/bridgeLogs.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/icons8-Ð²ÑÐ¾Ð´-Ð²-ÑÐ¸ÑÑÐµÐ¼Ñ,-Ð²-ÐºÑÑÐ¶ÐºÐµ-48.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/icons8-Ð²ÑÐ¾Ð´-Ð²-ÑÐ¸ÑÑÐµÐ¼Ñ,-Ð²-ÐºÑÑÐ¶ÐºÐµ-48.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-filled-50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-filled-50.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð¿ÑÐ°Ð²Ð¾-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-2-filled-50.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð¿ÑÐ°Ð²Ð¾-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-2-filled-50.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100-2.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -802,8 +1054,8 @@
           "locked": false,
           "name": "Person",
           "width": 100,
-          "x": 2669,
-          "y": 2082,
+          "x": 674,
+          "y": 2914,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2362,8 +2614,8 @@
           "locked": false,
           "name": "grass2",
           "width": 32,
-          "x": 499,
-          "y": 2102,
+          "x": 492,
+          "y": 2115,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2483,7 +2735,7 @@
           "name": "grass2",
           "width": 253,
           "x": 296,
-          "y": 2168,
+          "y": 2184,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2496,7 +2748,7 @@
           "layer": "",
           "locked": false,
           "name": "grassHorizontal",
-          "width": 43,
+          "width": 83,
           "x": 83,
           "y": 2175,
           "zOrder": 16,
@@ -2542,8 +2794,8 @@
           "locked": false,
           "name": "grass2",
           "width": 32,
-          "x": 698,
-          "y": 2101,
+          "x": 704,
+          "y": 2204,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -2702,7 +2954,7 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 218,
+          "height": 138,
           "layer": "",
           "locked": false,
           "name": "grass2",
@@ -2797,8 +3049,8 @@
           "locked": false,
           "name": "silverCoin",
           "width": 82,
-          "x": 1002,
-          "y": 2676,
+          "x": 1100,
+          "y": 2748,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -3157,8 +3409,8 @@
           "locked": false,
           "name": "grass2",
           "width": 71,
-          "x": 927,
-          "y": 2782,
+          "x": 978,
+          "y": 2912,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -3172,8 +3424,8 @@
           "locked": false,
           "name": "grass2",
           "width": 71,
-          "x": 851.665,
-          "y": 2829.59,
+          "x": 849,
+          "y": 2987,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -3187,8 +3439,8 @@
           "locked": false,
           "name": "grass2",
           "width": 71,
-          "x": 1005,
-          "y": 2743,
+          "x": 1112,
+          "y": 2838,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -3455,7 +3707,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/idle/idle-1.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3472,7 +3724,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/idle/idle-3.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3489,7 +3741,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/idle/idle-4.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/idle/idle-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3518,7 +3770,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-1.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3535,7 +3787,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-2.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3552,7 +3804,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-3.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3569,7 +3821,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-4.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3586,7 +3838,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-5.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3603,7 +3855,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-6.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3620,7 +3872,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-7.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3637,7 +3889,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/run/run-8.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/run/run-8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3666,7 +3918,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/jump/jump-1.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3683,7 +3935,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/jump/jump-2.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3700,7 +3952,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/jump/jump-3.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3717,7 +3969,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/warped city files/SPRITES/player/jump/jump-4.png",
+                      "image": "assets_SecondScene/warped city files/SPRITES/player/jump/jump-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3763,7 +4015,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/platformertutorial/bridgeLogs.png",
+                      "image": "assets_SecondScene/bridgeLogs.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4152,7 +4404,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4190,7 +4442,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4228,7 +4480,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4266,7 +4518,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_0.png",
+                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4283,7 +4535,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_1.png",
+                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4300,7 +4552,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_2.png",
+                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4317,7 +4569,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_3.png",
+                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4355,7 +4607,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4393,7 +4645,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4431,7 +4683,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4469,7 +4721,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4545,7 +4797,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/icons8-Ð²ÑÐ¾Ð´-Ð²-ÑÐ¸ÑÑÐµÐ¼Ñ,-Ð²-ÐºÑÑÐ¶ÐºÐµ-48.png",
+                      "image": "assets_SecondScene/icons8-Ð²ÑÐ¾Ð´-Ð²-ÑÐ¸ÑÑÐµÐ¼Ñ,-Ð²-ÐºÑÑÐ¶ÐºÐµ-48.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4583,7 +4835,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-filled-50.png",
+                      "image": "assets_SecondScene/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-filled-50.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4621,7 +4873,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð¿ÑÐ°Ð²Ð¾-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-2-filled-50.png",
+                      "image": "assets_SecondScene/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð¿ÑÐ°Ð²Ð¾-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-2-filled-50.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4659,7 +4911,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð¿ÑÐ°Ð²Ð¾-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-2-filled-50.png",
+                      "image": "assets_SecondScene/icons8-ÑÑÑÐµÐ»ÐºÐ°-Ð²Ð¿ÑÐ°Ð²Ð¾-Ð²Ð½Ð¸Ð·-Ð²-ÐºÑÑÐ³Ðµ-2-filled-50.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4733,7 +4985,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100.png",
+                      "image": "assets_SecondScene/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4793,7 +5045,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "../../Downloads/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100-2.png",
+                      "image": "assets_SecondScene/icons8-Ð¼Ð¾Ð½ÐµÑÑ-100-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
