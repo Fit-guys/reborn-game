@@ -4795,6 +4795,159 @@
         "name": "assets_SecondScene/square.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_stand1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_stand1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_stand2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_stand2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_stand3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_stand3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_stand4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_stand4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_run.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_run.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_run2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_run2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_run3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_run3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_run4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_run4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_run5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_run5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_run6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_run6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_jump1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_jump1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_jump2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_jump2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_jump3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_jump3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/restartImage.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/restartImage.jpg",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/restartImage.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/restartImage.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/pl1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/pl1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/pl2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/pl2.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5001,30 +5154,30 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.2434
+        "zoomFactor": 0.2524
       },
       "objectsGroups": [],
       "variables": [
         {
           "name": "Score",
-          "value": "0"
+          "children": []
         },
         {
-          "name": "Lifes",
-          "value": "3"
+          "name": "Timer",
+          "value": "120"
         }
       ],
       "instances": [
         {
           "angle": -1.64501,
           "customSize": true,
-          "height": 100,
+          "height": 98,
           "layer": "",
           "locked": false,
           "name": "Person",
-          "width": 75,
-          "x": -14,
-          "y": 1677,
+          "width": 55,
+          "x": 29,
+          "y": 459,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5052,8 +5205,8 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 703,
-          "x": -15,
+          "width": 276,
+          "x": -16,
           "y": 559,
           "zOrder": 7,
           "numberProperties": [],
@@ -5067,9 +5220,9 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 100,
-          "x": 386,
-          "y": 354,
+          "width": 90,
+          "x": 498,
+          "y": 408,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5083,8 +5236,8 @@
           "locked": false,
           "name": "grass2",
           "width": 90,
-          "x": 536,
-          "y": 419,
+          "x": 669,
+          "y": 433,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5098,8 +5251,8 @@
           "locked": false,
           "name": "grass2",
           "width": 90,
-          "x": 656,
-          "y": 347,
+          "x": 838,
+          "y": 395,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5113,8 +5266,8 @@
           "locked": false,
           "name": "grass2",
           "width": 90,
-          "x": 817,
-          "y": 255,
+          "x": 1005,
+          "y": 350,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5128,23 +5281,8 @@
           "locked": false,
           "name": "grass2",
           "width": 90,
-          "x": 1032,
-          "y": 215,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 90,
-          "x": 1192,
-          "y": 147,
+          "x": 1176,
+          "y": 310,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5188,7 +5326,7 @@
           "locked": false,
           "name": "checkpoint1",
           "width": 86,
-          "x": 24,
+          "x": 15,
           "y": 439,
           "zOrder": -2,
           "numberProperties": [],
@@ -5203,8 +5341,8 @@
           "locked": false,
           "name": "checkpointExit1",
           "width": 86,
-          "x": 2781,
-          "y": 672,
+          "x": 2949,
+          "y": 575,
           "zOrder": -3,
           "numberProperties": [],
           "stringProperties": [],
@@ -5218,7 +5356,7 @@
           "locked": false,
           "name": "grass2",
           "width": 253,
-          "x": -17,
+          "x": -16,
           "y": 972,
           "zOrder": 9,
           "numberProperties": [],
@@ -5248,8 +5386,8 @@
           "locked": false,
           "name": "grass2",
           "width": 90,
-          "x": 267,
-          "y": 415,
+          "x": 321,
+          "y": 460,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5293,8 +5431,8 @@
           "locked": false,
           "name": "grass2",
           "width": 236,
-          "x": 2705,
-          "y": 792,
+          "x": 2873,
+          "y": 695,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5368,8 +5506,8 @@
           "locked": false,
           "name": "arrowUpAngle",
           "width": 40,
-          "x": 616,
-          "y": 1237,
+          "x": 562,
+          "y": 1177,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -5398,8 +5536,8 @@
           "locked": false,
           "name": "grass2",
           "width": 78,
-          "x": 724,
-          "y": 1007,
+          "x": 716,
+          "y": 940,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5413,8 +5551,8 @@
           "locked": false,
           "name": "grass2",
           "width": 165,
-          "x": 1554,
-          "y": 1274,
+          "x": 1587,
+          "y": 1368,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5428,8 +5566,8 @@
           "locked": false,
           "name": "grass2",
           "width": 78,
-          "x": 567,
-          "y": 1063,
+          "x": 559,
+          "y": 1021,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5443,8 +5581,8 @@
           "locked": false,
           "name": "grass2",
           "width": 81,
-          "x": 889,
-          "y": 1059,
+          "x": 861,
+          "y": 1028,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5472,24 +5610,9 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 142,
-          "x": 2043,
-          "y": 789,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
           "width": 178,
-          "x": 1914,
-          "y": 1273,
+          "x": 1947,
+          "y": 1367,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5503,8 +5626,8 @@
           "locked": false,
           "name": "grass2",
           "width": 195,
-          "x": 1719,
-          "y": 1293,
+          "x": 1752,
+          "y": 1387,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5533,8 +5656,8 @@
           "locked": false,
           "name": "grassHorizontal",
           "width": 92,
-          "x": 1256,
-          "y": 848,
+          "x": 1243,
+          "y": 862,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -5548,8 +5671,8 @@
           "locked": false,
           "name": "right",
           "width": 0,
-          "x": 1177,
-          "y": 848,
+          "x": 1156,
+          "y": 852,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -5563,8 +5686,8 @@
           "locked": false,
           "name": "left",
           "width": 0,
-          "x": 1399,
-          "y": 848,
+          "x": 1387,
+          "y": 854,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -5578,8 +5701,8 @@
           "locked": false,
           "name": "grass2",
           "width": 85,
-          "x": 1969,
-          "y": 1035,
+          "x": 1964,
+          "y": 1028,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5593,8 +5716,8 @@
           "locked": false,
           "name": "grassHorizontal",
           "width": 163,
-          "x": 1475,
-          "y": 968,
+          "x": 1466,
+          "y": 951,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -5608,8 +5731,8 @@
           "locked": false,
           "name": "right",
           "width": 0,
-          "x": 1406,
-          "y": 968,
+          "x": 1397,
+          "y": 951,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -5623,8 +5746,8 @@
           "locked": false,
           "name": "left",
           "width": 0,
-          "x": 1887,
-          "y": 968,
+          "x": 1878,
+          "y": 945,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -5698,7 +5821,7 @@
           "locked": false,
           "name": "grass2",
           "width": 73,
-          "x": 704,
+          "x": 702,
           "y": 1493,
           "zOrder": 9,
           "numberProperties": [],
@@ -5826,15 +5949,15 @@
           "initialVariables": []
         },
         {
-          "angle": 0,
+          "angle": 89.654,
           "customSize": true,
-          "height": 64,
+          "height": 16,
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 15,
-          "x": 486,
-          "y": 2120,
+          "width": 45,
+          "x": 489,
+          "y": 2154,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6012,24 +6135,9 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 82,
-          "x": 198,
-          "y": 1830,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 138,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 20,
-          "x": 178,
-          "y": 1830,
+          "width": 119,
+          "x": 158,
+          "y": 1829,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6051,15 +6159,15 @@
           "initialVariables": []
         },
         {
-          "angle": 0,
+          "angle": 89.7004,
           "customSize": true,
-          "height": 163,
+          "height": 21,
           "layer": "",
           "locked": false,
           "name": "trap",
-          "width": 20,
-          "x": 175,
-          "y": 1509,
+          "width": 171,
+          "x": 95,
+          "y": 1578,
           "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
@@ -6096,15 +6204,15 @@
           "initialVariables": []
         },
         {
-          "angle": 0,
+          "angle": 89.5162,
           "customSize": true,
-          "height": 197,
+          "height": 20,
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 20,
-          "x": 652,
-          "y": 1652,
+          "width": 198,
+          "x": 564,
+          "y": 1741,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6118,8 +6226,8 @@
           "locked": false,
           "name": "books",
           "width": 82,
-          "x": 669,
-          "y": 2693,
+          "x": 694,
+          "y": 2762,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -6133,7 +6241,7 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 168,
+          "x": 165,
           "y": 1469,
           "zOrder": 21,
           "numberProperties": [],
@@ -6148,8 +6256,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 169,
-          "y": 1828,
+          "x": 168,
+          "y": 1819,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -6163,8 +6271,8 @@
           "locked": false,
           "name": "checkpoint2",
           "width": 98,
-          "x": 59,
-          "y": 846,
+          "x": 56,
+          "y": 850,
           "zOrder": -3,
           "numberProperties": [],
           "stringProperties": [],
@@ -6209,7 +6317,7 @@
           "name": "checkpointExit2",
           "width": 61,
           "x": 567,
-          "y": 1731,
+          "y": 1740,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -6238,8 +6346,8 @@
           "locked": false,
           "name": "grassHorizontal",
           "width": 95,
-          "x": 2455,
-          "y": 790,
+          "x": 2623,
+          "y": 693,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -6253,8 +6361,8 @@
           "locked": false,
           "name": "right",
           "width": 0,
-          "x": 2364,
-          "y": 790,
+          "x": 2532,
+          "y": 693,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -6268,8 +6376,8 @@
           "locked": false,
           "name": "left",
           "width": 0,
-          "x": 2605,
-          "y": 794,
+          "x": 2773,
+          "y": 697,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -6312,8 +6420,8 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 108,
-          "x": 1312,
+          "width": 76,
+          "x": 1355,
           "y": 2823,
           "zOrder": 9,
           "numberProperties": [],
@@ -6328,8 +6436,8 @@
           "locked": false,
           "name": "grass2",
           "width": 71,
-          "x": 868,
-          "y": 2890,
+          "x": 825,
+          "y": 2899,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6463,8 +6571,8 @@
           "locked": false,
           "name": "FinishedGame",
           "width": 0,
-          "x": 760,
-          "y": 540,
+          "x": 750,
+          "y": 464,
           "zOrder": -10,
           "numberProperties": [],
           "stringProperties": [],
@@ -6493,8 +6601,8 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 2245,
-          "y": 789,
+          "x": 2425,
+          "y": 613,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6508,23 +6616,8 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 2173,
-          "y": 554,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 62,
-          "x": 1959,
-          "y": 678,
+          "x": 2243,
+          "y": 511,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6538,23 +6631,8 @@
           "locked": false,
           "name": "grass2",
           "width": 78,
-          "x": 2146,
-          "y": 1137,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 52,
-          "x": 2045,
-          "y": 1190,
+          "x": 2159,
+          "y": 1134,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6583,8 +6661,8 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 1391,
-          "y": 91,
+          "x": 1390,
+          "y": 177,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -6628,8 +6706,8 @@
           "locked": false,
           "name": "coinNumber3",
           "width": 50,
-          "x": 2245,
-          "y": 738,
+          "x": 2528,
+          "y": 533,
           "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
@@ -6688,8 +6766,8 @@
           "locked": false,
           "name": "coinNumber4",
           "width": 50,
-          "x": 1994,
-          "y": 323,
+          "x": 2015,
+          "y": 267,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -6703,8 +6781,8 @@
           "locked": false,
           "name": "coinNumber4",
           "width": 50,
-          "x": 908,
-          "y": 998,
+          "x": 880,
+          "y": 967,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -6733,8 +6811,8 @@
           "locked": false,
           "name": "coinNumber4",
           "width": 50,
-          "x": 1605,
-          "y": 269,
+          "x": 1584,
+          "y": 192,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -6763,8 +6841,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 1794,
-          "y": 1153,
+          "x": 1830,
+          "y": 1172,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -6778,8 +6856,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 1046,
-          "y": 1971,
+          "x": 871,
+          "y": 2232,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -6793,8 +6871,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 1272,
-          "y": 795,
+          "x": 2879,
+          "y": 614,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -6808,39 +6886,9 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 2711,
-          "y": 711,
-          "zOrder": 40,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 50,
-          "layer": "",
-          "locked": false,
-          "name": "coinNumber5",
-          "width": 50,
-          "x": 284,
+          "x": 300,
           "y": 337,
           "zOrder": 40,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 50,
-          "layer": "",
-          "locked": false,
-          "name": "coinNumber4",
-          "width": 50,
-          "x": 1994,
-          "y": 323,
-          "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6883,8 +6931,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 1272,
-          "y": 795,
+          "x": 1192,
+          "y": 800,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -6898,8 +6946,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 1218,
-          "y": 66,
+          "x": 1104,
+          "y": 223,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -6913,8 +6961,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 1505,
-          "y": 893,
+          "x": 1743,
+          "y": 867,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -6943,8 +6991,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 1593,
-          "y": 1212,
+          "x": 1626,
+          "y": 1306,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -7046,10 +7094,10 @@
           "height": 0,
           "layer": "UI",
           "locked": false,
-          "name": "GameOver",
+          "name": "timeIsOver",
           "width": 0,
-          "x": 850,
-          "y": 540,
+          "x": 750,
+          "y": 464,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -7063,8 +7111,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 1400,
-          "y": 390,
+          "x": 1391,
+          "y": 451,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7078,8 +7126,8 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 1320,
-          "y": 1176,
+          "x": 1353,
+          "y": 1270,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -7093,8 +7141,8 @@
           "locked": false,
           "name": "grassVertical",
           "width": 96,
-          "x": 1285,
-          "y": 1252,
+          "x": 1318,
+          "y": 1346,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -7108,8 +7156,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 1331,
-          "y": 1450,
+          "x": 1364,
+          "y": 1544,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7123,8 +7171,8 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 1156,
-          "y": 1267,
+          "x": 1189,
+          "y": 1361,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -7138,8 +7186,8 @@
           "locked": false,
           "name": "grassVertical",
           "width": 96,
-          "x": 1124,
-          "y": 1339,
+          "x": 1157,
+          "y": 1433,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -7153,8 +7201,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 1156,
-          "y": 1514,
+          "x": 1189,
+          "y": 1608,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7168,8 +7216,8 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 1468,
-          "y": 1107,
+          "x": 1501,
+          "y": 1201,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -7183,8 +7231,8 @@
           "locked": false,
           "name": "grassVertical",
           "width": 96,
-          "x": 1439,
-          "y": 1172,
+          "x": 1472,
+          "y": 1266,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -7198,8 +7246,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 1483,
-          "y": 1392,
+          "x": 1516,
+          "y": 1486,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7213,8 +7261,8 @@
           "locked": false,
           "name": "grass2",
           "width": 52,
-          "x": 1795,
-          "y": 1207,
+          "x": 1828,
+          "y": 1301,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -7228,23 +7276,23 @@
           "locked": false,
           "name": "grassVertical",
           "width": 100,
-          "x": 1359,
-          "y": 148,
+          "x": 1356,
+          "y": 260,
           "zOrder": 44,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
-          "angle": 0,
+          "angle": 90,
           "customSize": true,
-          "height": 2187,
+          "height": 20,
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 20,
-          "x": -35,
-          "y": -2,
+          "width": 2141,
+          "x": -1098,
+          "y": 1126,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -7258,7 +7306,7 @@
           "locked": false,
           "name": "grass2",
           "width": 30,
-          "x": -15,
+          "x": -16,
           "y": 1829,
           "zOrder": 9,
           "numberProperties": [],
@@ -7273,7 +7321,7 @@
           "locked": false,
           "name": "grass2",
           "width": 30,
-          "x": -15,
+          "x": -16,
           "y": 2074,
           "zOrder": 9,
           "numberProperties": [],
@@ -7342,15 +7390,45 @@
         },
         {
           "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UI",
+          "locked": false,
+          "name": "Timer",
+          "width": 0,
+          "x": 23,
+          "y": 86,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
           "customSize": true,
           "height": 20,
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 30,
-          "x": 148,
-          "y": 1830,
+          "width": 52,
+          "x": 2065,
+          "y": 1269,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "UI",
+          "locked": false,
+          "name": "restartImage",
+          "width": 100,
+          "x": 910,
+          "y": 571,
+          "zOrder": 46,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7361,17 +7439,22 @@
           "name": "Person",
           "type": "Sprite",
           "updateIfNotVisible": false,
-          "variables": [],
+          "variables": [
+            {
+              "name": "direction",
+              "value": "right"
+            }
+          ],
           "behaviors": [
             {
               "acceleration": 1500,
-              "canGrabPlatforms": true,
+              "canGrabPlatforms": false,
               "deceleration": 1500,
               "gravity": 1000,
               "ignoreDefaultControls": false,
               "jumpSpeed": 600,
               "maxFallingSpeed": 700,
-              "maxSpeed": 250,
+              "maxSpeed": 300,
               "name": "PlatformerObject",
               "roundCoordinates": true,
               "slopeMaxAngle": 60,
@@ -7391,7 +7474,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_stand1.png",
+                      "image": "assets_SecondScene/game_char_update/boi_stand1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7408,7 +7491,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_stand2.png",
+                      "image": "assets_SecondScene/game_char_update/boi_stand2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7425,7 +7508,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_stand3.png",
+                      "image": "assets_SecondScene/game_char_update/boi_stand3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7442,7 +7525,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_stand4.png",
+                      "image": "assets_SecondScene/game_char_update/boi_stand4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7471,7 +7554,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_run.png",
+                      "image": "assets_SecondScene/game_char_update/boi_run.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7488,7 +7571,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_run2.png",
+                      "image": "assets_SecondScene/game_char_update/boi_run2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7505,7 +7588,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_run3.png",
+                      "image": "assets_SecondScene/game_char_update/boi_run3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7522,7 +7605,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_run4.png",
+                      "image": "assets_SecondScene/game_char_update/boi_run4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7539,7 +7622,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_run5.png",
+                      "image": "assets_SecondScene/game_char_update/boi_run5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7556,7 +7639,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_run6.png",
+                      "image": "assets_SecondScene/game_char_update/boi_run6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7581,11 +7664,11 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.14,
+                  "timeBetweenFrames": 0.17,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_jump1.png",
+                      "image": "assets_SecondScene/game_char_update/boi_jump1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7602,7 +7685,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_jump2.png",
+                      "image": "assets_SecondScene/game_char_update/boi_jump2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7619,7 +7702,7 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/game_char1/boi_jump3.png",
+                      "image": "assets_SecondScene/game_char_update/boi_jump3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7689,7 +7772,7 @@
         {
           "height": 32,
           "name": "grassHorizontal",
-          "texture": "assets_SecondScene/square.png",
+          "texture": "assets_SecondScene/pl1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [
@@ -7711,7 +7794,7 @@
         {
           "height": 32,
           "name": "grassWithAngle",
-          "texture": "assets_SecondScene/square.png",
+          "texture": "assets_SecondScene/pl1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [
@@ -7733,7 +7816,7 @@
         {
           "height": 5,
           "name": "grassVertical",
-          "texture": "assets_SecondScene/square.png",
+          "texture": "assets_SecondScene/pl1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [
@@ -7755,7 +7838,7 @@
         {
           "height": 5,
           "name": "grass2",
-          "texture": "assets_SecondScene/square.png",
+          "texture": "assets_SecondScene/pl1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -7778,7 +7861,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Score:",
+          "string": "Score: 0",
           "font": "",
           "characterSize": 40,
           "color": {
@@ -8489,13 +8572,13 @@
         {
           "bold": true,
           "italic": false,
-          "name": "GameOver",
+          "name": "timeIsOver",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "GAME OVER",
+          "string": "Ваш час закінчився",
           "font": "",
           "characterSize": 40,
           "color": {
@@ -8545,7 +8628,7 @@
         {
           "height": 32,
           "name": "trap",
-          "texture": "assets_SecondScene/square.png",
+          "texture": "assets_SecondScene/pl1.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [
@@ -16931,6 +17014,62 @@
               ]
             }
           ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "Timer",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Time: 120",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "restartImage",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets_SecondScene/restartImage.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -16960,6 +17099,17 @@
               "parameters": [
                 "Person",
                 "\"Jumping\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetObjectTimer"
+              },
+              "parameters": [
+                "Person",
+                "\"FallingTimer\""
               ],
               "subInstructions": []
             }
@@ -17072,6 +17222,38 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PlatformBehavior::IsFalling"
+              },
+              "parameters": [
+                "Person",
+                "PlatformerObject"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ObjectTimer"
+              },
+              "parameters": [
+                "Person",
+                "\"FallingTimer\"",
+                "2.0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
           "events": []
         },
         {
@@ -17250,7 +17432,99 @@
                 "value": "Cache"
               },
               "parameters": [
-                "GameOver"
+                "timeIsOver"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "Timer",
+                "\"Time\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Time",
+                "=",
+                "80"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "restartImage"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Person",
+                "=",
+                "checkpoint1.X()",
+                "=",
+                "checkpoint1.Y()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"Time\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Time",
+                "-",
+                "1"
               ],
               "subInstructions": []
             }
@@ -17262,8 +17536,157 @@
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
-          "actions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Timer",
+                "=",
+                "\"Time: \" + ToString(Variable(Time))"
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Time",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PauseTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "timeIsOver",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "restartImage",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Person",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "restartImage",
+                "",
+                "yes",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MouseButtonReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Left"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "MettreXY"
+                  },
+                  "parameters": [
+                    "Person",
+                    "=",
+                    "checkpoint1.X()",
+                    "=",
+                    "checkpoint1.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"First game\"",
+                    "yes"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
         },
         {
           "disabled": false,
@@ -17350,7 +17773,7 @@
                 "value": "TextObject::Opacity"
               },
               "parameters": [
-                "GameOver",
+                "timeIsOver",
                 "=",
                 "1"
               ],
@@ -17617,7 +18040,7 @@
               "parameters": [
                 "grassHorizontal",
                 "0",
-                "50",
+                "75",
                 ""
               ],
               "subInstructions": []
@@ -17653,7 +18076,7 @@
               "parameters": [
                 "grassHorizontal",
                 "180",
-                "50",
+                "75",
                 ""
               ],
               "subInstructions": []
@@ -17938,6 +18361,14 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
           "events": []
         },
         {
@@ -18571,16 +19002,72 @@
                 }
               ],
               "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [],
-              "events": []
             }
           ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Person",
+                "yes"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Person",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
