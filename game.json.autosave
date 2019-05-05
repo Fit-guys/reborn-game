@@ -1071,7 +1071,7 @@
           "locked": false,
           "name": "lifes",
           "width": 274,
-          "x": 223,
+          "x": 633,
           "y": 30,
           "zOrder": 8,
           "numberProperties": [
@@ -3757,7 +3757,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Bugs fixed : ",
+          "string": "Виправлено помилок : ",
           "font": "",
           "characterSize": 40,
           "color": {
@@ -3783,7 +3783,7 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Lifes : ",
+          "string": "Залишилось життів : ",
           "font": "",
           "characterSize": 60,
           "color": {
@@ -5646,7 +5646,7 @@
               "parameters": [
                 "TextBugsDestroyed",
                 "=",
-                "\"Bugs fixed : \" + ToString(Variable(BugsDestroyed))"
+                "\"Виправлено помилок : \" + ToString(Variable(BugsDestroyed))"
               ],
               "subInstructions": []
             }
@@ -5967,10 +5967,6 @@
         }
       ],
       "behaviorsSharedData": [
-        {
-          "name": "Platform",
-          "type": "PlatformBehavior::PlatformBehavior"
-        },
         {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
