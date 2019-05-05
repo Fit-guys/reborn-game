@@ -671,6 +671,7 @@
       "b": 209,
       "disableInputWhenNotFocused": true,
 <<<<<<< HEAD
+<<<<<<< HEAD
       "mangledName": "Second_32game",
       "name": "Second game",
 =======
@@ -5707,6 +5708,10 @@
       "mangledName": "NewScene",
       "name": "NewScene",
 >>>>>>> parent of a721b97... Shooter added
+=======
+      "mangledName": "Second_32game",
+      "name": "Second game",
+>>>>>>> parent of ba9678e... Add shooter
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
