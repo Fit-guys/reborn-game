@@ -4957,6 +4957,15 @@
         "name": "assets_SecondScene/portal.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/deadline_platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/deadline_platform.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -7164,7 +7173,7 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 1588,
+          "width": 1487,
           "x": 3,
           "y": 407,
           "zOrder": 7,
@@ -7315,8 +7324,8 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 1549,
-          "y": 366,
+          "x": 1448,
+          "y": 368,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -7378,6 +7387,81 @@
           "x": 145,
           "y": 1482,
           "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 1466,
+          "x": 4,
+          "y": 387,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 1919,
+          "x": 4,
+          "y": 1099,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 1853,
+          "x": 195,
+          "y": 1633,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 3208,
+          "x": -22,
+          "y": 2431,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 2970,
+          "x": -641,
+          "y": 3346,
+          "zOrder": 51,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16767,6 +16851,15 @@
               ]
             }
           ]
+        },
+        {
+          "height": 32,
+          "name": "deadLineBlock",
+          "texture": "assets_SecondScene/deadline_platform.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -17332,6 +17425,18 @@
                     "checkpoint1.X()",
                     "=",
                     "checkpoint1.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"First game\"",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -18659,8 +18764,57 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Person",
+                "deadLineBlock",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "gameOver",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Person",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "restartImage",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],

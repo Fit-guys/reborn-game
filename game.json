@@ -4957,6 +4957,15 @@
         "name": "assets_SecondScene/portal.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/deadline_platform.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/deadline_platform.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5499,9 +5508,24 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 73,
-          "x": 738,
-          "y": 1509,
+          "width": 100,
+          "x": 729,
+          "y": 1512,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "grass2",
+          "width": 102,
+          "x": 905,
+          "y": 1512,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5515,37 +5539,7 @@
           "locked": false,
           "name": "grass2",
           "width": 73,
-          "x": 886,
-          "y": 1508,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 73,
-          "x": 958,
-          "y": 1489,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 73,
-          "x": 812,
+          "x": 1006,
           "y": 1490,
           "zOrder": 9,
           "numberProperties": [],
@@ -5560,8 +5554,23 @@
           "locked": false,
           "name": "grass2",
           "width": 73,
-          "x": 663,
+          "x": 830,
           "y": 1492,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "grass2",
+          "width": 73,
+          "x": 654,
+          "y": 1491,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -5860,7 +5869,7 @@
           "locked": false,
           "name": "grass2",
           "width": 198,
-          "x": 564,
+          "x": 563,
           "y": 1741,
           "zOrder": 9,
           "numberProperties": [],
@@ -7195,7 +7204,7 @@
           "locked": false,
           "name": "grass2",
           "width": 1376,
-          "x": 673,
+          "x": 672,
           "y": 1653,
           "zOrder": 7,
           "numberProperties": [],
@@ -7315,7 +7324,7 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 1450,
+          "x": 1448,
           "y": 368,
           "zOrder": 9,
           "numberProperties": [],
@@ -7378,6 +7387,126 @@
           "x": 145,
           "y": 1482,
           "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 1466,
+          "x": 4,
+          "y": 387,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 1919,
+          "x": 4,
+          "y": 1099,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 1853,
+          "x": 195,
+          "y": 1633,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 3208,
+          "x": -22,
+          "y": 2431,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 19,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 2970,
+          "x": -641,
+          "y": 3346,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 109,
+          "x": 279,
+          "y": 1827,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 100,
+          "x": 728,
+          "y": 1491,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "deadLineBlock",
+          "width": 100,
+          "x": 905,
+          "y": 1490,
+          "zOrder": 52,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16767,6 +16896,15 @@
               ]
             }
           ]
+        },
+        {
+          "height": 32,
+          "name": "deadLineBlock",
+          "texture": "assets_SecondScene/deadline_platform.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
@@ -17332,6 +17470,18 @@
                     "checkpoint1.X()",
                     "=",
                     "checkpoint1.Y()"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"First game\"",
+                    ""
                   ],
                   "subInstructions": []
                 }
@@ -18659,8 +18809,57 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Person",
+                "deadLineBlock",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "gameOver",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "Person",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "restartImage",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "events": []
         }
       ],
