@@ -4948,6 +4948,15 @@
         "name": "assets_SecondScene/game_char_update/boi_stand1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/portal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/portal.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5927,7 +5936,7 @@
           "name": "checkpoint3",
           "width": 99,
           "x": -565,
-          "y": 3070,
+          "y": 3074,
           "zOrder": -3,
           "numberProperties": [],
           "stringProperties": [],
@@ -5951,13 +5960,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 85,
+          "height": 119,
           "layer": "",
           "locked": false,
           "name": "checkpointExit2",
-          "width": 61,
-          "x": 565,
-          "y": 1739,
+          "width": 86,
+          "x": 548,
+          "y": 1707,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -7581,52 +7590,6 @@
           ]
         },
         {
-          "name": "bridgeLogs",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [
-            {
-              "canBeGrabbed": true,
-              "name": "Platform",
-              "platformType": "Jumpthru",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "yGrabOffset": 0
-            }
-          ],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/bridgeLogs.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "height": 32,
           "name": "grassHorizontal",
           "texture": "assets_SecondScene/pl1.png",
@@ -7728,66 +7691,6 @@
           }
         },
         {
-          "name": "Slime",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [
-            {
-              "name": "direction",
-              "value": "left"
-            }
-          ],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/slimeWalk1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/slimeWalk2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "left",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -7880,7 +7783,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7918,7 +7821,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7956,96 +7859,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "fire",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_0.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/enviroment sprites/32 X 32 dungeon tilemap_flame_3.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8083,7 +7897,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8121,7 +7935,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8159,7 +7973,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8197,45 +8011,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Player",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Idle",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/p1_stand.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -17594,20 +17370,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Person",
-                "Slime",
-                "",
-                "",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "VarScene"
               },
               "parameters": [
@@ -18134,20 +17896,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Person",
-                "Slime",
-                "",
-                "",
-                "no"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
                 "value": "PlatformBehavior::IsOnFloor"
               },
               "parameters": [
@@ -18227,22 +17975,7 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Person",
-                "fire",
-                "",
-                "",
-                "yes"
-              ],
-              "subInstructions": []
-            }
-          ],
+          "conditions": [],
           "actions": [
             {
               "type": {

@@ -4948,6 +4948,15 @@
         "name": "assets_SecondScene/game_char_update/boi_stand1.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/portal.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/portal.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -5154,7 +5163,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4238
+        "zoomFactor": 0.4202
       },
       "objectsGroups": [],
       "variables": [
@@ -5927,7 +5936,7 @@
           "name": "checkpoint3",
           "width": 99,
           "x": -565,
-          "y": 3070,
+          "y": 3074,
           "zOrder": -3,
           "numberProperties": [],
           "stringProperties": [],
@@ -5951,13 +5960,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 85,
+          "height": 119,
           "layer": "",
           "locked": false,
           "name": "checkpointExit2",
-          "width": 61,
-          "x": 565,
-          "y": 1739,
+          "width": 86,
+          "x": 548,
+          "y": 1707,
           "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
@@ -6451,8 +6460,8 @@
           "locked": false,
           "name": "coinNumber5",
           "width": 50,
-          "x": 13,
-          "y": 924,
+          "x": 183,
+          "y": 930,
           "zOrder": 40,
           "numberProperties": [],
           "stringProperties": [],
@@ -6483,21 +6492,6 @@
           "width": 50,
           "x": 1145,
           "y": 1415,
-          "zOrder": 39,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 50,
-          "layer": "",
-          "locked": false,
-          "name": "coinNumber4",
-          "width": 50,
-          "x": 374,
-          "y": 1148,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -7038,21 +7032,6 @@
           "width": 50,
           "x": 1962,
           "y": 1398,
-          "zOrder": 39,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 50,
-          "layer": "",
-          "locked": false,
-          "name": "coinNumber4",
-          "width": 50,
-          "x": 1821,
-          "y": 130,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -7910,7 +7889,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7948,7 +7927,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7986,7 +7965,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/entrance.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8113,7 +8092,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8151,7 +8130,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8189,7 +8168,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -8227,7 +8206,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_SecondScene/random platformer game assets/tilemap/exit.png",
+                      "image": "assets_SecondScene/portal.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
