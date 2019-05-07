@@ -4798,15 +4798,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets_SecondScene/game_char_update/boi_stand1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets_SecondScene/game_char_update/boi_stand1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets_SecondScene/game_char_update/boi_stand2.png",
         "kind": "image",
         "metadata": "",
@@ -4946,6 +4937,15 @@
         "kind": "image",
         "metadata": "",
         "name": "assets_SecondScene/pl2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_SecondScene/game_char_update/boi_stand1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_SecondScene/game_char_update/boi_stand1.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -5154,7 +5154,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.3706
+        "zoomFactor": 0.4238
       },
       "objectsGroups": [],
       "variables": [
@@ -5176,7 +5176,7 @@
           "locked": false,
           "name": "Person",
           "width": 55,
-          "x": 39,
+          "x": 206,
           "y": 163,
           "zOrder": 1,
           "numberProperties": [],
@@ -5775,8 +5775,8 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 119,
-          "x": 158,
+          "width": 146,
+          "x": 132,
           "y": 1828,
           "zOrder": 9,
           "numberProperties": [],
@@ -5799,7 +5799,7 @@
           "initialVariables": []
         },
         {
-          "angle": 89.7004,
+          "angle": 90,
           "customSize": true,
           "height": 21,
           "layer": "",
@@ -5880,9 +5880,9 @@
           "layer": "",
           "locked": false,
           "name": "arrowDown",
-          "width": 31,
-          "x": 163,
-          "y": 1468,
+          "width": 38,
+          "x": 162,
+          "y": 1469,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -5896,8 +5896,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 166,
-          "y": 1818,
+          "x": 169,
+          "y": 1824,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -5986,8 +5986,8 @@
           "locked": false,
           "name": "grassHorizontal",
           "width": 95,
-          "x": 1315,
-          "y": 686,
+          "x": 1312,
+          "y": 748,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -6001,8 +6001,8 @@
           "locked": false,
           "name": "right",
           "width": 0,
-          "x": 1240,
-          "y": 673,
+          "x": 1237,
+          "y": 735,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -6016,8 +6016,8 @@
           "locked": false,
           "name": "left",
           "width": 0,
-          "x": 1465,
-          "y": 680,
+          "x": 1462,
+          "y": 742,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -6196,8 +6196,8 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 1572,
-          "y": 654,
+          "x": 1569,
+          "y": 716,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6211,8 +6211,8 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 1734,
-          "y": 551,
+          "x": 1731,
+          "y": 613,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6286,8 +6286,8 @@
           "locked": false,
           "name": "coinNumber3",
           "width": 50,
-          "x": 1336,
-          "y": 613,
+          "x": 1333,
+          "y": 675,
           "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
@@ -6361,8 +6361,8 @@
           "locked": false,
           "name": "coinNumber4",
           "width": 50,
-          "x": 704,
-          "y": 830,
+          "x": 728,
+          "y": 864,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -6646,8 +6646,8 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 739,
-          "y": 738,
+          "x": 736,
+          "y": 800,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -6676,8 +6676,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 728,
-          "y": 980,
+          "x": 725,
+          "y": 1042,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -6708,21 +6708,6 @@
           "width": 2141,
           "x": -1077,
           "y": 1058,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 30,
-          "x": 4,
-          "y": 1829,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -6865,21 +6850,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 20,
-          "layer": "",
-          "locked": false,
-          "name": "grass2",
-          "width": 30,
-          "x": 4,
-          "y": 1578,
-          "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "layer": "UI",
@@ -6946,8 +6916,8 @@
           "locked": false,
           "name": "coinNumber4",
           "width": 50,
-          "x": 903,
-          "y": 742,
+          "x": 900,
+          "y": 804,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -6961,8 +6931,8 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 938,
-          "y": 650,
+          "x": 935,
+          "y": 712,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -6976,8 +6946,8 @@
           "locked": false,
           "name": "grassVertical",
           "width": 96,
-          "x": 903,
-          "y": 726,
+          "x": 900,
+          "y": 788,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -6991,8 +6961,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 927,
-          "y": 892,
+          "x": 924,
+          "y": 954,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7006,8 +6976,8 @@
           "locked": false,
           "name": "coinNumber4",
           "width": 50,
-          "x": 1119,
-          "y": 625,
+          "x": 1116,
+          "y": 687,
           "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
@@ -7021,8 +6991,8 @@
           "locked": false,
           "name": "arrowDown",
           "width": 31,
-          "x": 1135,
-          "y": 594,
+          "x": 1132,
+          "y": 656,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -7036,8 +7006,8 @@
           "locked": false,
           "name": "grassVertical",
           "width": 96,
-          "x": 1100,
-          "y": 687,
+          "x": 1097,
+          "y": 749,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -7051,8 +7021,8 @@
           "locked": false,
           "name": "arrowUp",
           "width": 30,
-          "x": 1124,
-          "y": 836,
+          "x": 1121,
+          "y": 898,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -7201,8 +7171,8 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 1842,
-          "y": 410,
+          "x": 1841,
+          "y": 475,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -7372,6 +7342,66 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "grass2",
+          "width": 30,
+          "x": 3,
+          "y": 1637,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "grass2",
+          "width": 30,
+          "x": 3,
+          "y": 1906,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "grass3",
+          "width": 75,
+          "x": 150,
+          "y": 1478,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 20,
+          "layer": "",
+          "locked": false,
+          "name": "grass3",
+          "width": 75,
+          "x": 145,
+          "y": 1482,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -7392,7 +7422,7 @@
               "deceleration": 1500,
               "gravity": 1000,
               "ignoreDefaultControls": false,
-              "jumpSpeed": 600,
+              "jumpSpeed": 750,
               "maxFallingSpeed": 700,
               "maxSpeed": 300,
               "name": "PlatformerObject",
@@ -7413,7 +7443,7 @@
                   "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
-                      "hasCustomCollisionMask": false,
+                      "hasCustomCollisionMask": true,
                       "image": "assets_SecondScene/game_char_update/boi_stand1.png",
                       "points": [],
                       "originPoint": {
@@ -7427,7 +7457,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 11.8984,
+                            "y": 23.9727
+                          },
+                          {
+                            "x": 87.3984,
+                            "y": 2.09375
+                          },
+                          {
+                            "x": 89.0703,
+                            "y": 225.699
+                          },
+                          {
+                            "x": 11.9961,
+                            "y": 226.363
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -8477,7 +8526,7 @@
           ],
           "behaviors": [
             {
-              "canBeGrabbed": true,
+              "canBeGrabbed": false,
               "name": "Platform",
               "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
@@ -16926,6 +16975,52 @@
             "g": 0,
             "r": 0
           }
+        },
+        {
+          "name": "grass3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets_SecondScene/pl1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -18286,6 +18381,16 @@
                 "\"Close\""
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "grass3"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -18401,6 +18506,17 @@
               },
               "parameters": [
                 "books",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "grass3",
                 ""
               ],
               "subInstructions": []
@@ -18594,6 +18710,17 @@
               "parameters": [
                 "Person",
                 ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "PauseTimer"
+              },
+              "parameters": [
+                "",
+                "\"Time\""
               ],
               "subInstructions": []
             }
@@ -18912,6 +19039,14 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [],
+          "events": []
         }
       ],
       "layers": [
@@ -18951,18 +19086,18 @@
       ]
     },
     {
-      "b": 209,
+      "b": 252,
       "disableInputWhenNotFocused": true,
       "mangledName": "Second_32Scene",
       "name": "Second Scene",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 209,
+      "r": 199,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 223,
       "uiSettings": {
         "grid": false,
         "gridB": 255,
@@ -20362,12 +20497,580 @@
       ],
       "objects": [
         {
-          "name": "NewObject",
+          "name": "Player",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "behaviors": [],
-          "animations": []
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGrabPlatforms": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": false,
+              "jumpSpeed": 600,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "roundCoordinates": true,
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "\"Jumping\"",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_jump1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_jump2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_jump3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "\"Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_stand1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_stand2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_stand3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_stand4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "\"Running\"",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_run.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_run2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_run3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_run4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_run5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets_SecondScene/game_char_update/boi_run6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 50.4258,
+                            "y": 121.281
+                          },
+                          {
+                            "x": 53.5,
+                            "y": 120.906
+                          },
+                          {
+                            "x": 90.582,
+                            "y": 227.523
+                          },
+                          {
+                            "x": 9.71094,
+                            "y": 228.082
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "platform",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets_SecondScene/pl1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -20401,6 +21104,53 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Timer"
+              },
+              "parameters": [
+                "",
+                "1",
+                "\"SpawnTime\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "platform",
+                "Random(1920)",
+                "Random()",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"SpawnTime\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -20422,7 +21172,16 @@
           "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [
