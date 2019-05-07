@@ -5154,7 +5154,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4934
+        "zoomFactor": 0.4238
       },
       "objectsGroups": [],
       "variables": [
@@ -5897,7 +5897,7 @@
           "name": "arrowUp",
           "width": 30,
           "x": 169,
-          "y": 1826,
+          "y": 1824,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
