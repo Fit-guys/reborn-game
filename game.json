@@ -5185,8 +5185,8 @@
           "locked": false,
           "name": "Person",
           "width": 55,
-          "x": 206,
-          "y": 163,
+          "x": 64,
+          "y": 179,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -5290,7 +5290,7 @@
           "locked": false,
           "name": "checkpoint1",
           "width": 86,
-          "x": 20,
+          "x": 44,
           "y": 157,
           "zOrder": -2,
           "numberProperties": [],
@@ -7164,7 +7164,7 @@
           "layer": "",
           "locked": false,
           "name": "grass2",
-          "width": 1588,
+          "width": 1487,
           "x": 3,
           "y": 407,
           "zOrder": 7,
@@ -7315,8 +7315,8 @@
           "locked": false,
           "name": "grass2",
           "width": 62,
-          "x": 1549,
-          "y": 366,
+          "x": 1450,
+          "y": 368,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -7439,12 +7439,12 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 11.8984,
-                            "y": 23.9727
+                            "x": 19.1133,
+                            "y": 21.9883
                           },
                           {
-                            "x": 87.3984,
-                            "y": 2.09375
+                            "x": 71.9609,
+                            "y": 5.33203
                           },
                           {
                             "x": 89.0703,
@@ -7664,7 +7664,7 @@
           "variables": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
+              "canBeGrabbed": false,
               "name": "Platform",
               "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
@@ -16881,16 +16881,6 @@
                     "\"Idle\""
                   ],
                   "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "Person"
-                  ],
-                  "subInstructions": []
                 }
               ],
               "events": []
@@ -17342,18 +17332,6 @@
                     "checkpoint1.X()",
                     "=",
                     "checkpoint1.Y()"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"First game\"",
-                    "yes"
                   ],
                   "subInstructions": []
                 }
@@ -17896,41 +17874,6 @@
             {
               "type": {
                 "inverted": false,
-                "value": "PlatformBehavior::IsOnFloor"
-              },
-              "parameters": [
-                "Person",
-                "PlatformerObject"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "Person",
-                "=",
-                "grassHorizontal.Variable(checkpointX)",
-                "=",
-                "grassHorizontal.Variable(checkpointY)"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": false,
                 "value": "CollisionNP"
               },
               "parameters": [
@@ -17969,37 +17912,6 @@
               "subInstructions": []
             }
           ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "MettreXY"
-              },
-              "parameters": [
-                "Person",
-                "=",
-                "grassHorizontal.Variable(checkpointX)",
-                "=",
-                "grassHorizontal.Variable(checkpointY)"
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": []
-        },
-        {
-          "disabled": false,
-          "folded": false,
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [],
           "events": []
         },
         {
