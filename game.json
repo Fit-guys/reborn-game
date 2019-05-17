@@ -646,6 +646,15 @@
         "name": "assets_ThirdScene/or.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets_ThirdScene/comment1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets_ThirdScene/comment1.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -5989,7 +5998,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.346
+        "zoomFactor": 0.73
       },
       "objectsGroups": [],
       "variables": [],
@@ -7301,14 +7310,14 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 105,
           "layer": "",
           "locked": false,
           "name": "comment1",
-          "width": 0,
-          "x": 564,
-          "y": 336,
+          "width": 328,
+          "x": 583,
+          "y": 360,
           "zOrder": 60,
           "numberProperties": [],
           "stringProperties": [],
@@ -7320,11 +7329,56 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "comment2",
+          "name": "commentText",
           "width": 0,
-          "x": 936,
-          "y": 324,
-          "zOrder": 61,
+          "x": 591,
+          "y": 394,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "commentText2",
+          "width": 0,
+          "x": 997,
+          "y": 370,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 110,
+          "layer": "",
+          "locked": false,
+          "name": "comment1",
+          "width": 328,
+          "x": 979,
+          "y": 354,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "commentText2",
+          "width": 0,
+          "x": 988,
+          "y": 389,
+          "zOrder": 65,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7572,7 +7626,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_ThirdScene/comment1.jpg",
+                      "image": "assets_ThirdScene/comment1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7630,6 +7684,42 @@
               ]
             }
           ]
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "commentText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Натисніть, щоб змінити сигнал",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "commentText2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Всі виходи повинні бути зелені",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
         }
       ],
       "events": [
@@ -8010,26 +8100,11 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4284
+        "zoomFactor": 0.8124
       },
       "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "comment",
-          "width": 0,
-          "x": 712,
-          "y": 350,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
@@ -8113,9 +8188,39 @@
           "locked": false,
           "name": "continueText",
           "width": 0,
-          "x": 729,
-          "y": 741,
+          "x": 652,
+          "y": 742,
           "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 110,
+          "layer": "",
+          "locked": false,
+          "name": "comment1",
+          "width": 194,
+          "x": 791,
+          "y": 392,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "comment1Text",
+          "width": 0,
+          "x": 803,
+          "y": 427,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8504,13 +8609,69 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Click to Continue",
+          "string": "Натисніть, щоб продовжити",
           "font": "",
           "characterSize": 40,
           "color": {
             "b": 0,
             "g": 0,
             "r": 0
+          }
+        },
+        {
+          "name": "comment1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets_ThirdScene/comment1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "comment1Text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Інвертуйте сигнал",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
           }
         }
       ],
@@ -10665,7 +10826,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.226
+        "zoomFactor": 0.499
       },
       "objectsGroups": [],
       "variables": [],
@@ -10781,25 +10942,10 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "comment",
-          "width": 0,
-          "x": 810,
-          "y": 144,
-          "zOrder": 16,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
           "name": "continueText",
           "width": 0,
-          "x": 829,
-          "y": 760,
+          "x": 695,
+          "y": 785,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -10831,6 +10977,36 @@
           "x": 788,
           "y": 618,
           "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 161,
+          "layer": "",
+          "locked": false,
+          "name": "comment",
+          "width": 258,
+          "x": 933,
+          "y": 144,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 49,
+          "layer": "",
+          "locked": false,
+          "name": "commentText",
+          "width": 245,
+          "x": 943,
+          "y": 183,
+          "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11326,6 +11502,42 @@
           ]
         },
         {
+          "bold": true,
+          "italic": false,
+          "name": "continueText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Натисніть, щоб продовжити",
+          "font": "",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "bold": true,
+          "italic": false,
+          "name": "commentText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "Сигнал проходить лише в одному напрямку",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
           "name": "comment",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -11342,7 +11554,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets_ThirdScene/comment4.png",
+                      "image": "assets_ThirdScene/comment1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -11362,24 +11574,6 @@
               ]
             }
           ]
-        },
-        {
-          "bold": true,
-          "italic": false,
-          "name": "continueText",
-          "smoothed": true,
-          "type": "TextObject::Text",
-          "underlined": false,
-          "variables": [],
-          "behaviors": [],
-          "string": "Click to continue",
-          "font": "",
-          "characterSize": 40,
-          "color": {
-            "b": 0,
-            "g": 0,
-            "r": 0
-          }
         }
       ],
       "events": [
